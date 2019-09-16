@@ -1,4 +1,5 @@
 # esx_firejob
+This config is setup for my server.  You will need to change vehicles, ranks, and uniforms to fit your needs.  My uniforms are EUP and vehicles are a mix of public and XBR.  When changing ranks and uniform setups, you will need to edit these in the client/main.lua file as well (lines 84-146 and 248-290)
 
 ### Requirements
 * Auto mode
